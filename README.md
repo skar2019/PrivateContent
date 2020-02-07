@@ -1,4 +1,8 @@
-## Module display Customer property in PDP page when Magento Full Page Cache is enabled
+## Customer Property + Full Page Cache
+
+* Display Customer property in cached page when Magento Full Page Cache is enabled
+
+* Module display Customer property in PDP page when Magento Full Page Cache is enabled
 
 ## Overview
 This module provide following functionlity 
@@ -7,4 +11,4 @@ This module provide following functionlity
 3. Retirve 'legacy_account_number' from local storage and display to Magento Product Page
 
 ## Note 
-Before using this module create customer custom attribute named 'legacy_account_number'
+> Before using this module create customer custom attribute named 'legacy_account_number'
