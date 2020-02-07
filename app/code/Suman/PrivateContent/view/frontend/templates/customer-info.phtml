@@ -1,0 +1,17 @@
+<div data-bind="scope: 'customer-info'">
+    <!-- ko template: getTemplate() --><!-- /ko -->
+</div>
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "Magento_Ui/js/core/app": {
+                "components": {
+                    "customer-info": {
+                        "component": "Suman_PrivateContent/js/customer-info",
+                        "template": "Suman_PrivateContent/customer-info"
+                    }
+                }
+            }
+        }
+    }
+</script>
