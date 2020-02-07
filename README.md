@@ -1,4 +1,4 @@
-## Customer Property + Full Page Cache
+## Magento Customer Property + Full Page Cache
 
 * Display Customer property in cached page when Magento Full Page Cache is enabled
 
